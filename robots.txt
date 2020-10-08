@@ -1,0 +1,5 @@
+User-agent: *
+Allow:/
+Allow:/Moviesda/
+Allow:/Tamil-New-Movies/
+Sitemap:https://tamilyogi.github.io/sitemap.xml
